@@ -1,2 +1,2 @@
 # Curriculum-Vitae
-A simple website to display your CV in pdf format
+A simple website to display my CV in pdf format
